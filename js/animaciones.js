@@ -59,7 +59,7 @@ window.onload = function () {
         carta.innerHTML =
           "<img class='img-simpson' src='./imagenes/cartas/" +
           numerosCartas[key] +
-          ".jpg'/>";
+          ".png'/>";
       });
       cartasArray = document.getElementsByClassName("carta");
   
