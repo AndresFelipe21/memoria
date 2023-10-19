@@ -64,7 +64,7 @@ body {
 }
 
 .carta.abajo {
-    background: url(../imagenes/cartas/reverso.jpg) repeat center center;
+    background: url(../imagenes/cartas/reverso.png) repeat center center;
     background-size: contain;
 }
 
